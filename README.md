@@ -66,6 +66,11 @@ current flows through its emitter generating the voltage across the resistance c
 
 ---
 
+## BLOCK DIAGRAM
+
+<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/744315d1-5968-43f9-a57a-a7dbb8ec916a" />
+
+---
 
 ## TABULATION  
 **Transmission through Analog Link**
